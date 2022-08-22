@@ -15,5 +15,5 @@
 * BEM
 
 **Доп. материалы:**
-Макет: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503
-Проект: https://im-Arn.github.io/russian-travel/index.html
+* Макет: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503
+* Проект: https://im-arn.github.io/russian-travel/index.html
