@@ -1,0 +1,21 @@
+.sections__section-lead {
+  margin: 56px auto 92px;
+}
+  
+@media screen and (max-width: 1024px) {
+  .sections__section-lead {
+    margin-top: 48px;
+  }
+}
+  
+@media screen and (max-width: 768px) {
+  .sections__section-lead {
+    margin-bottom: 88px;
+  }
+}
+  
+@media screen and (max-width: 320px) {
+  .sections__section-lead {
+    margin-bottom: 64px;
+  }
+}

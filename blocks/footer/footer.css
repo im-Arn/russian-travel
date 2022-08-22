@@ -1,0 +1,14 @@
+.footer {
+  max-width: 1184px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    gap: 48px;
+  }
+}

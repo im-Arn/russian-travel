@@ -1,0 +1,15 @@
+.sections__section-cover {
+  margin: 92px auto;
+}
+
+@media screen and (max-width: 768px) {
+  .sections__section-cover {
+    margin: 90px auto 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .sections__section-cover {
+    margin: 66px auto 64px;
+  }
+}

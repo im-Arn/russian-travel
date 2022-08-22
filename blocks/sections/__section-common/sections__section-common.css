@@ -1,0 +1,19 @@
+.sections__section-common {
+  margin: 0px auto 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .sections__section-common {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .sections__section-common {
+    margin-bottom: 64px;
+  }
+}
+
+.sections__section-common:nth-of-type(4) {
+  margin-bottom: 0px;
+}

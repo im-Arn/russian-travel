@@ -1,0 +1,28 @@
+.photo-grid {
+  /*некоторые изображения не совпадают с макетом, но это именно то что было в архиве сжатых изображений от яндекса */
+  display: grid;
+  width: 92.5%;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  gap: 16px;
+} 
+  
+@media screen and (max-width: 1279px) {
+ .photo-grid {
+   width: 90.625%;
+   gap: 14px;
+  }
+}
+  
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    width: 93.75%;
+    gap: 16px;
+  }
+}
+  
+@media screen and (max-width: 320px) {
+  .photo-grid {
+    width: 90%;
+    gap: 12px;
+  }
+}
