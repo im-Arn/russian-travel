@@ -6,10 +6,6 @@
   line-height: 76px;
   text-align: center;
   z-index: 1;
-  grid-column: 1;
-  grid-row: 1;
-  justify-self: center;
-  align-self: end;
 }
 
 @media screen and (max-width: 760px) {
